@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sites=(
-    "itbox.ua"
+    "google.com"
     "github.com"
     "my-fake-site-123.com"
 )
